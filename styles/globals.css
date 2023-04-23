@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'sohne';
+  font-weight: 300;
+  font-style: normal;
+  src: url('https://glyph.medium.com/font/6fd11d6/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-300-normal.woff') format('woff');
+  unicode-range: U+0-7F,U+A0,U+B7,U+200A,U+2014,U+2018,U+2019,U+201C,U+201D,U+2022,U+2026;
+}
+
+*>* {
+  -webkit-font-smoothing: antialiased;
+}
+
+.desc h1{
+  font-size: 24px !important;
+  font-weight: bold;
+}
+
+pre{
+  background: #f9f9f9;
+  font-size: 12px;
+  padding-top: 20px; 
+  margin-top: 20px;
+  line-height: 1.4;
+  letter-spacing: -0.022em;
+  font-style: normal;
+  overflow-x: auto;
+  overflow-y: hidden;
+  border: 1px solid rgb(229, 229, 229);
+}
+
+.desc ul{
+  list-style: disc !important;
+  padding-left: 40px !important;
+}
+
+.desc a{
+  color: deepskyblue;
+}
+.desc code{
+  font-size: 14px;
+  color: black;
+  background: #f9f9f9;
+  border-radius: 0.25rem;
+  padding: 0.25rem;
+}
+
+.cover-image{
+  object-fit: cover;
+}
+.images span{  display: block !important;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.input-text {
+  @apply mt-1 block w-60 px-3 py-2 bg-white border rounded-full text-sm placeholder-slate-500;
+  @apply focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500;
+}
+
+.loader {
+  @apply border-gray-200 rounded-full border-4 ease-linear h-10 w-10;
+  border-top-color: #363ce0;
+  animation: spinner 1.2s linear infinite;
+}
+
+
+
+@keyframes spinner {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
