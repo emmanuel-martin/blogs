@@ -13,7 +13,7 @@ import { SWRConfig } from 'swr';
 export default function Page({ fallback }) {
   const router = useRouter();
   const { postId } = router.query;
-  const { data, isLoading, isError } = fetcher(`api/trending/${postId}`);
+  const { data, isLoading, isError } = fetcher(`/api/trending/${postId}`);
 
   if (isLoading) return <Spinner></Spinner>;
   if (isError) return <ErrorComponent></ErrorComponent>;
