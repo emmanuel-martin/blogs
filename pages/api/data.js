@@ -617,8 +617,236 @@ data visualization project based on Spotify’s track data has revealed several 
       description: `
       There has never been a better time to learn to code or make a career change to software engineering. The demand for web developers is at an all-time high, and it’s only increasing. There are both free and premium tutorials online that teach you the skills to get a job as a developer — no CS degree required.
 
-      This blog is currently a work in progress, expected to be released in two days.
-            `,
+      <h1><strong>Table of Contents</strong></h1><ul style="list-style: a !important;">
+        <li>The Basics</li>
+        <li>Introduction to Programming</li>
+        <li>Frontend Development</li>
+        <li>Backend Development</li>
+        <li>DevOps Engineering</li>
+        <li>Javascript and Coding In-depth</li>
+        <li>Software Engineering Books</li>
+        <li>Land your dream job</li>
+      </ul>These are all products that I personally recommend. For some of them, I do receive compensation if you use the links in the article. If you do find something you like, your support is appreciated.
+      
+      <h1><strong>1. The Basics</strong></h1>
+      We will start with skills every developer needs to learn, and these will be used in all the paths — Frontend, Backend, or DevOps.
+
+To be effective as a developer, you should be proficient with the command line, know how to version control your code with Git, and understand the fundamentals of the web.
+            
+<strong>Command Line</strong>
+The command line is how you run your code. You must be able to navigate and execute the required commands. The better you are on the command line, the more efficient you will be as a developer.
+<ul>
+        <li><a href="https://www.learnenough.com/command-line-tutorial">Learn Enough Command Line to Be Dangerous</a> — an excellent free book to learn the command line.</li>
+        <li><a href="https://www.udemy.com/course/linux-command-line-volume1/?LSNPUBID=q15T%2FSfRF14&ranEAID=q15T%2FSfRF14&ranMID=39197&ranSiteID=q15T_SfRF14-azCj9uKDlSUKC0f8NSsN5A">Linux Command Line Basics</a></li>
+        <li><a href="https://www.amazon.com/Linux-Command-Line-Complete-Introduction-ebook-dp-B006X2QEQS/dp/B006X2QEQS/ref=as_li_ss_tl?_encoding=UTF8&me=&qid=1547993668&linkCode=sl1&tag=treyhuffine-20&linkId=b61dc0dc566d4a8e99a290525fb7262a&language=en_US">The Linux Command Line: A Complete Introduction</a></li>
+      </ul><strong>Pick a Text Editor</strong>
+VS Code is the is the top choice for web developers, which makes it a great place to start — it’s personally what I use. It is free and open source, with tons of plugins to make you more productive. However, there are many excellent options available such as Atom, WebStorm, or Vim (for the hardcore).
+
+The text editor is where you will write all your code, and the terminal is where you execute it. As a developer, this is where you live. Spend some time to pick the right editor, set up the plugins, and learn the hotkeys. Having the right workflow can dramatically increase your productivity.
+
+<strong>Git and Version Control</strong>
+Git is the tool used to save code and create different versions, allowing you to collaborate with other developers. The top place to store code and collaborate on open source software is GitHub.
+
+Check my blog to learn about Git, <a href="https://blog.emmanuel.codes/trending/5">Working with Git Like a Senior Software Engineer</a>
+
+<strong>Web Fundamentals</strong>
+<ul>
+        <li><a href="https://en.wikipedia.org/wiki/HTTP">HTTP</a> / <a href="https://en.wikipedia.org/wiki/HTTPS">HTTPS</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Secure_Shell">SSH</a></li>
+        <li><a href="https://www.w3.org/International/questions/qa-what-is-encoding">Character Encodings</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller">Model-View-Controller (MVC)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Representational_state_transfer">REST</a></li>
+      </ul>
+<h1><strong>2. Introduction to Programming</strong></h1>
+Before you dive into any of the paths, you should have a solid foundation in programming. For new developers, I highly recommend learning JavaScript as your first language. JS can be used for both frontend and backend developers which means you can become a fullstack developer while being able to focus on mastering only one language. The benefits of JavaScript are:
+<ul style="list-style: a !important;">
+        <li>JavaScript is a relatively easy language to learn
+        </li>
+        <li>JavaScript is required to build web applications since it is the programming language that runs in the browser
+        </li>
+        <li>JavaScript can be used on the frontend and the backend, allowing you to write full-stack applications with a single language
+        </li>
+        <li>There are tons of jobs for JavaScript developers
+        </li>
+       </ul>
+       There are plenty of high-quality free options to get started with coding. <a href="https://www.freecodecamp.org/">freeCodeCamp</a> and <a href="https://www.codecademy.com/">Codecademy</a> are excellent choices and are great to set your foundation.
+      
+       Once you have the basics down, a great next step is the free <a href="https://javascript30.com">JavaScript30</a> course or the premium <a href="https://beginnerjavascript.com/">BeginnerJavaScript</a> course. Web Bos teaches you the core concepts of JavaScript by building real projects. You should try to do real projects as quickly as possible. Projects are the best way to learn skills for the job and allow you to build a portfolio for when you start interviewing.
+
+       If you are looking for a subscription option with courses that will take you from beginner to pro, a great option is <a href="https://www.pluralsight.com/">Pluralsight</a>. You must sign up for a subscription (free trial offered), but they have excellent content on almost everything.
+
+       <h1><strong>3. Learn Frontend Development</strong></h1>
+       Frontend development is how we build user interfaces for the web. You must have a strong foundation in JavaScript as well as understanding how HTML/CSS work.
+       
+       The popular client-side libraries — React, Angular, and Vue — are all written in JavaScript. Knowing vanilla JavaScript thoroughly is essential to leveling up and having the required skills to build complex applications. Once you have a solid foundation in JavaScript, you should learn HTML and CSS. Even though the UI is coded in JS, it still generates HTML and is styled by CSS.
+       
+       <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2023 Web Development Bootcamp</a>
+       The most complete course on web development. Start with HTML and CSS, learn JavaScript and how it interacts with the DOM, and eventually build a full stack web application.
+
+       <strong>HTML and CSS</strong>
+       HTML and CSS are typically learned together. HTML is the skeleton of the page that gives is structure, and CSS is the language that gives it style.
+      
+       Some of the best available courses to learn CSS are given below
+
+       <a href="https://www.udemy.com/course/step-by-step-html-and-css-for-absolute-beginners/">HTML and CSS for Absolute Beginners</a>
+       <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/">Build Responsive Real World Websites with HTML5 and CSS3</a>
+       <a href="https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/">CSS: The Complete Guide (Advanced CSS)</a>
+
+       <strong>UI Libraries (React, Vue, Angular)</strong>
+       Modern UI development has gravitated towards a component model with 3 libraries as the primary ones used by professional frontend engineers— React, Vue, and Angular. You are better off knowing one of these libraries very well as opposed to trying to learn all 3. Then on the job, you will be able to pick up something different if the company uses a framework that you did not learn. React is the most popular, but Vue and Angular are both being adopted rapidly.
+
+      <strong>React Courses</strong>
+      <ul>
+      <li><a href="https://react.dev/learn/tutorial-tic-tac-toe">The Official React Introduction</a></li>
+      <li><a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">React — The Complete Guide (incl. Hooks, React Router, Redux)</a></li>
+      <li><a href="https://www.udemy.com/course/react-redux/">Modern React with Redux</a></li>
+      <li><a href="https://reactforbeginners.com/">React for Beginners</a></li>
+      <li><a href="https://advancedreact.com/">Advanced React + GraphQL</a></li>
+    </ul> <strong>Vue Courses</strong>
+      <ul>
+      <li><a href="https://vueschool.io/">Vue School</a></li>
+      <li><a href="https://vuejs.org/guide/introduction.html">The Official Vue Introduction</a></li>
+      <li><a href="https://www.udemy.com/course/vuejs-2-the-complete-guide/">Vue JS 2 — The Complete Guide (incl. Vue Router & Vuex)</a></li>
+      <li><a href="https://www.udemy.com/course/vuejs-2-essentials">The Ultimate Vue JS 2 Developers Course</a></li>
+      <li><a href="https://www.udemy.com/course/vue-js-course">Vue JS Essentials with Vuex and Vue Router</a></li>
+    </ul><strong>Angular Courses</strong>
+    <ul>
+    <li><a href="https://www.udemy.com/course/the-complete-guide-to-angular-2/">Angular 8— The Complete Guide</a></li>
+    <li><a href="https://www.udemy.com/course/the-complete-angular-master-class/">The Complete Angular Course: Beginner to Advanced</a></li>
+  </ul>
+  <h1><strong>4. Learn Backend Development</strong></h1>
+  The backend is where you communicate with the database, handle business logic, and send the necessary data to the frontend.
+  
+  Your backend / server can be written in any language. My recommendation is to start with Node/JavaScript since it is relatively easy to learn but also incredibly powerful. In addition, you can more easily transition between frontend and backend since you will be using the same language for each. I will also detail other possible languages to learn backend development — Python, Go, Ruby on Rails.
+
+  Working with a database is core to being a backend engineer, and I will also outline tutorials to learn SQL, NoSQL, and GraphQL. While NoSQL has become more popular, SQL is still by far the most utilized database type and is essential to learn.
+  
+  <strong>Node.js</strong>
+  Node is how we execute JavaScript outside the browser which can be used to build APIs on the backend/server.
+  <ul>
+    <li><a href="https://www.udemy.com/course/the-complete-nodejs-developer-course-2/">The Complete Node.js Developer Course (3rd Edition)</a></li>
+    <li><a href="https://www.udemy.com/course/nodejs-the-complete-guide/">NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)</a></li>
+    <li><a href="https://learnnode.com/">Learn Node</a></li>
+    </ul><strong>Databases</strong>
+    The database is the permanent storage for the data of your application. Typically the backend will make a query against the database during an API call. There are 2 common database types — SQL and NoSQL.
+    
+    <strong>PostgreSQL / MySQL</strong>
+    These are two top SQL implementations and likely what you will see utilized at most companies.
+    <ul>
+    <li><a href="https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/">The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert</a></li>
+    <li><a href="https://www.udemy.com/course/sql-and-postgresql-for-beginners">SQL & PostgreSQL for Beginners
+    </a></li>
+  </ul><strong>GraphQL</strong>
+  GraphQL itself is not a database but a query language on top of databases. Many people believe it is going to revolutionize app development and totally change how we build APIs. It is rapidly gaining adoption and being utilized by tech giants and top startups.
+  <ul>
+  <li><a href="https://www.udemy.com/course/graphql-bootcamp/">The Modern GraphQL Bootcamp (Advanced Node.js and Apollo)</a></li>
+  <li><a href="https://www.udemy.com/course/graphql-with-react-course/">GraphQL with React: The Complete Developers Guide</a></li>
+</ul>As a bonus, try <a href="https://hasura.io/">Hasura</a>. It allows you to generate GraphQL using a web UI and automatically builds a Postgres database for you.
+
+<strong>MongoDB</strong>
+Mongo is the most popular NoSQL database used with Node. It stores data in documents which are <code>key/value</code> pairs that easily map to JSON and JavaScript objects. 
+<ul>
+  <li><a href="https://www.udemy.com/course/mongodb-the-complete-developers-guide/">MongoDB — The Complete Developer’s Guide</a></li>
+</ul><strong>Python</strong>
+Python is easy for beginners but also utilized extensively by tech giants and startups for backends, data science, and scripting.
+<ul>
+  <li><a href="https://www.udemy.com/course/complete-python-bootcamp/">Complete Python Bootcamp: Go from zero to hero in Python 3</a></li>
+  <li><a href="https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/">Python and Django Full Stack Web Developer Bootcamp
+  </a></li>   
+  </ul><strong>Go (Golang)</strong>
+  Go is relatively new but has seen rapid adoption. It is a statically-typed language but is also incredibly developer-friendly. This makes it ideal for building services.
+  <ul>
+    <li><a href="https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/">Complete Go Bootcamp: Go from zero to hero (Golang)</a></li>
+    <li><a href="https://www.udemy.com/course/go-programming-language/">Web Development with Google’s Go Programming Language</a></li>   
+    </ul><strong>Ruby on Rails</strong>
+    Ruby on Rails was the go-to startup language for years. Its ease of use and convention-driven language made it easy to rapidly build products.
+    <ul>
+      <li><a href="https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/">The Complete Ruby on Rails Developer Course</a></li>  
+      </ul>
+      <h1><strong>5. Learn DevOps Engineering</strong></h1>
+      DevOps manages the infrastructure of a company. They set up the processes to deploy your web apps and manage traffic to the site. DevOps engineers focus on allowing other teams to get code into production as fast as possible and make sure the servers are always up and running while and sending content to the end-user as quickly as possible.
+      
+      The field of DevOps is very broad, and the choices they make impact every engineering team. Some essential topics to learn as a DevOps engineer include:
+      
+      <strong>Linux</strong>
+      Linux is used on 67%+ servers and is highly likely what you would use as a DevOps engineer. It is essential to thoroughly understand it.
+      
+      <strong>Security</strong>
+      Make sure your entire cloud is secured and encrypted. Also set up the APIs such that all content is served through HTTPS and not susceptible to common attacks.
+      
+      <strong>Command Line / Terminals</strong>
+      We introduced the command line in the first section, but it even more essential for a DevOps engineer. You must thoroughly understand how it works and the Linux commands and be prepared to SSH into remote servers. You will also be writing scripts and automating programs for the entire company.
+      
+      <strong>Automated Testing</strong>
+      DevOps sets up a system of automated testing so that all code that enters production has been thoroughly vetted and reduces the possibility of introducing bugs or regressions.
+     
+      <strong>Continuous Integration and Continuous Delivery (CI/CD)</strong>
+      Set up a pipeline for deployment so that code is automatically merged into production while reducing manual touchpoints for individual developers. Automated testing using plays a large role in CI/CD.
+      
+      <strong>Containers</strong>
+      Containers are a core part of infrastructure, with most startups and tech giants utilizing Docker and/or Kubernetes in some form. A container ensures that your code is always executed in a clean and reproducible environment.
+      
+      <strong>Cloud Providers</strong>
+      Understand how to manage servers in the cloud using one of the popular providers such as AWS, GCP, or Azure.
+      
+      <strong>Log Management</strong>
+      Having proper logging is essential. It allows you to diagnose bugs and find the root cause for any issues in your application.
+      
+      <h1><strong>6. JavaScript and Coding In-depth</strong></h1>
+      I recommend working on real projects as quickly as possible. However, at some point, you will want to do a deep dive into JavaScript and learn how it all works underneath the hood. In addition, it is important to have an understanding of data structures, algorithms, and other general computer science knowledge.
+
+      <strong>You Don’t Know JavaScript (YDKJS)</strong>
+      This is simply the best book on JavaScript. If you work through this entirely, you will know the entire core language of JS. Read it <a href="https://github.com/getify/You-Dont-Know-JS">free on GitHub</a>
+      
+      <strong>TypeScript</strong>
+      This is not a requirement for beginners (unless you are using Angular), but TypeScript adoption is growing rapidly and has consumed the JS world. Many think it’s the future of JavaScript.
+      
+      <strong>Data Structures in JavaScript</strong>
+      Build the most common data structures from the ground up in JavaScript. This video series is a great extension to build the knowledge you have already gained and is an excellent resource for interviews as well.
+      
+      <strong>Eloquent JavaScript</strong>
+      Another favorite book of JavaScript engineers. It covers a broader range of topics than YDKJS, including the browser and Node. <a href="https://eloquentjavascript.net/">Read it for free online</a>
+      
+      <strong>Introduction to Algorithms</strong>
+      While not the most beginner-friendly book, it is thorough. Take this step once you really feel like it’s time to understand algorithms thoroughly. <a href="https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/">Click here to purchase the book</a>
+      
+      <h1><strong>7. Software Engineering Books</strong></h1>
+      This selection is 5 books that will either make you a better coder in general or an essential book you will need at some point in your career, such as during interviews.
+      <ul>
+        <li><strong>Clean Code</strong> by Robert C Martin
+        </li>
+        <li><strong>The Pragmatic Programmer</strong> by Andrew Hunt & David Thomas
+        </li>
+        <li><strong>The Effective Engineer</strong> by Edmund Lau
+        </li>
+        <li><strong>Cracking the Coding Interview</strong> by Gayle Laakmann McDowell
+        </li>
+        <li><strong>The Art of Computer Programming</strong> by Donald Knuth</li>
+       </ul>If you are learning to web development, there is also a high likelihood you’re interested in startups. These are some of the top books about startups and the philosophies of those that are successful.
+       <ul>
+       <li><strong>The Lean Startup</strong> by Eric Ries
+       </li>
+       <li><strong>Zero to One</strong> by Peter Thiel
+       </li>
+       <li><strong>Hooked</strong> by Nir Eyal
+       </li>
+       <li><strong>Traction</strong> by Gabriel Weinberg and Justin Mares
+       </li>
+       <li><strong>The Hard Thing About Hard Things</strong> by Ben Horowitz</li>
+      </ul>
+      <h1><strong>8. Land your dream job</strong></h1>
+      By following these tutorials, you will be on your way to becoming a professional web developer. Make sure to start building real projects as quickly as possible and begin applying to jobs. Projects and deployed web apps are the best way to show a company that you will be able to contribute once you are hired.
+
+Some Tips:
+<ul>
+<li>Only focus on a few skills: Ex. JavaScript, React, Node. Don’t try to learn everything — React, Vue, Angular, jQuery, Backbone, etc. Get as good as you can learning the minimal required languages/libraries. Go deep, not wide.
+</li>
+<li>Apply to as many jobs as you can as long as they fit your skillset. Don’t give up! You will eventually find your role if you keep working. It’s a long and hard road, but well worth the effort if you are passionate about the field.
+</li>
+<li>Practice for the interview. Use “Cracking the Coding Interview” and websites to become comfortable with answering interview questions.</li>
+<li>Read the “You Don’t Know JavaScript” series. This will ensure you know the language inside and out.</li>
+<li>Keep building projects — projects are the best way to learn and show that you understand how to build apps for the real world.</li>
+</ul>Finding the first job is always a numbers game, so the more you apply, the better your odds are of getting an offer. It can take months though, so be ready for the long road. However, you will get one eventually and every job going forward will be much easier to get after landing that first role.`,
       published: 'Apr 23,  2023',
       author: {
         name: 'Emmanuel Martin',
