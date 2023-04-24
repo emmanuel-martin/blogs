@@ -859,7 +859,7 @@ Some Tips:
       title: 'Working with Git Like a Senior Software Engineer',
       subtitle:
         `Git is a version control system that is widely used in the software development industry. It allows developers to track changes to their codebase and collaborate with others on projects.`,
-      category: 'Business, Travel',
+      category: 'Git, Education',
       img: '/images/img5.png',
       description: `
       <h1><strong>Table of Contents</strong></h1><ul style="list-style: a !important;">
