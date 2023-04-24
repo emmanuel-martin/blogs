@@ -18,8 +18,8 @@ export default function header() {
 
                
 
-                <div className="hidden sm:block w-96 order-3 flex justify-center">
-                    <div className="flex gap-6">
+                <div className="hidden sm:block w-96 order-3 flex ">
+                    <div className="flex gap-6 justify-center">
                         <Link href={"https://www.facebook.com/emmanuelmartinfb"}><a><ImFacebook color="#888888" /></a></Link>
                         <Link href={"https://www.twitter.com/emmanuelmartin_"}><a><ImTwitter color="#888888" /></a></Link>
                         <Link href={"https://www.youtube.com/@emmanuel-martin"}><a><ImYoutube color="#888888" /></a></Link>
