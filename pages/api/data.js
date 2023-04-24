@@ -707,17 +707,39 @@ By following these tips and continually learning and improving your Git skills, 
       description: `
             In the current education system, students lacks ability to explore outside the syllabus and they are stuck in a mediocre of evaluation system. Students are evaluated on based what they learned only during the class hours not on what they can do with the learning. They are not trained to explore further more on the topics they learn in the classroom.<br>
             We all have been introduced to the Outcome Based Education (OBE), which helps the students to know what they are learning, why this syllabus is important, what all skills are gained while learning the subject. This system has brought up a lot of changes in the education system. Still it is not quite fitting with the students. The current pattern to evaluate students is based conducting more and more examinations based only on what they studied theoretically. This will lack practical knowledge of students on a subject.<br>
+            <img src="../images/blog_data/process_based_education/1xkd7OmNhm-tN_wAsuwU6fw.png">
             Implementing a new pattern to evaluate students on their education, not just by evaluating what they know theoretically rather than understanding what they know practically.<br>
             <h1>How Students benefit from Process Based Education?</h1>
             There are six different boosters a student gets while practising process based education. Learning by a process with the known outcome will help them to implement it in their daily lives.
+            
             <strong>1. Problem Solving Mindset</strong>
             Students will be able to solve problems or tasks they encounter on their daily routine. They can easily identify a problem and obtain a solution for the same. This mindset will be developed among students. It will also help them to find an estimate for the problem.
-            <strong>2. Collaboration & Contribution among peers</strong>
-            <strong>3. Observation skills</strong>
-            <strong>1. Problem Solving Mindset</strong>
-            <strong>1. Problem Solving Mindset</strong>
-            <strong>1. Problem Solving Mindset</strong>
 
+            <strong>2. Collaboration & Contribution among peers</strong>
+            Students gets an opportunity to collaborate among peer students. They can also contribute towards projects other students are working on. This will help them to learn by teaching others.
+
+            <strong>3. Observation skills</strong>
+            They key goal to find a solution to something is by observing it. Observation skill helps student to find numerous solution for a problem just by observing it. Learn by observing in their day to day activities.
+
+            <strong>4. Critical Thinking</strong>
+            The critical thinking ability will help students to analyse a problem and predict about its future. This will give them confidence and will be ready to face any problems in their life.
+
+            <strong>5. Exploration outside the syllabus</strong>
+            In the current education system, students don’t have a mindset to explore topics from outside the syllabus. The Exploration mentality is about creating a mindset to go through topics outside the syllabus. Such as exploring a framework of a programming language.
+
+            <strong>6. Solution driven approach</strong>
+            The solution driven approach will help students to analyse a task and find the possible outcome of it. Students will be able to focus and understand deep root of a subject, they can bringup solutions and suggestions on it.
+
+            <img src="../images/blog_data/process_based_education/1EdGGBxB64EvBwurBZsIAzQ.png">
+            
+            <strong>Summary</strong>
+            This is my point of view on the current education system of outcome based education, An act of education reform is required for the modern education as students are lacking skills and ability to perform in extra curricular activities. They are bounded in the syllabus and inside the box. Process Based Education will help them to explore more other than their current curriculam and outside the world.
+            
+            <strong>References</strong>
+            <a href="https://cga.ct.gov/PS94/rpt%5Colr%5Chtm/94-R-0290.htm#:~:text=What%20is%20the%20definition%20of,they%20leave%20the%20school%20system">https://cga.ct.gov/PS94/rpt%5Colr%5Chtm/94-R-0290.htm#:~:text=What%20is%20the%20definition%20of,they%20leave%20the%20school%20system</a>
+
+            <strong>Credits</strong>
+            Image: <a href="https://unsplash.com/photos/u93RuS6IJGk">https://unsplash.com/photos/u93RuS6IJGk</a>
             `,
       published: 'Dec 14,  2022',
       author: {

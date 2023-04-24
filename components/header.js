@@ -8,7 +8,7 @@ export default function header() {
                 
             <div className=" w-96 sm:order-1 order-1">
                     <Link href={"/"}>
-                        <a className="font-bold text-sm sm:text-lg">Emmanuel Martin</a>
+                        <a className="font-bold text-sm sm:text-lg">Emmanuel Martin.</a>
                     </Link>
                 </div>
 

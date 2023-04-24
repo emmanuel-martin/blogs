@@ -29,7 +29,7 @@ export default function Page({ fallback }) {
 function Article({ title, img, subtitle, description, author }) {
   return (
     <Format>
-      <section className='container mx-auto md:px-2 py-16 w-4/5 sm:w-1/2'>
+      <section className='container mx-auto md:px-16 pt-8 w-4/6 sm:max-w-1/2'>
         <div className='post'>
           <h1 className='font-bold text-4xl text-center pb-5'>
             {title || 'No Title'}
@@ -39,7 +39,7 @@ function Article({ title, img, subtitle, description, author }) {
             {subtitle || 'No Title'}
           </p>
 
-          <div className='py-8'>
+          <div className='py-8 images'>
             <Image src={img || '/'} width={900} height={600} class="cover-image"></Image>
           </div>
 
