@@ -15,7 +15,7 @@ export default function section4() {
     if(isError) return <Error></Error>
 
   return (
-    <section className="container mx-auto md:px-20 py-0">
+    <section className="container mx-auto md:px-20 py-0 w-4/5 sm:w-1/2">
         <div className="grid lg:grid-cols-2">
             <div className="item">
                 <h1 className="font-bold text-4xl py-12">Explore</h1>

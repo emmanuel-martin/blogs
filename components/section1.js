@@ -22,7 +22,7 @@ export default function section1() {
 
   return (
     <section className='py-16' style={bg}>
-      <div className='container mx-auto md:px-20'>
+      <div className='container mx-auto md:px-20 w-4/5 sm:w-1/2'>
         <Swiper
           slidesPerView={1}
           loop={true}

@@ -12,7 +12,7 @@ export default function section2() {
   if (isError) return <Error></Error>;
 
   return (
-    <section className='container mx-auto md:px-20 py-10'>
+    <section className='container mx-auto md:px-20 py-10 w-4/5 sm:w-1/2'>
       <h1 className='font-bold text-4xl py-12 text-center'>Latest Posts</h1>
 
       {/* grid columns */}

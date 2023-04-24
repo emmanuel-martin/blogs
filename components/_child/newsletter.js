@@ -7,7 +7,7 @@ export default function newsletter() {
         <div className='py-4 mt-4'>
           <input
             type='text'
-            className='border rounded-full w-64 py-3 px-3 mr-4 md:w-96
+            className='border rounded-full w-52 py-3 px-3 mr-4 md:w-96
                     text-gray-700 focus:outline-none focus:shadow-outline'
             placeholder='Enter Your Email'
           />
