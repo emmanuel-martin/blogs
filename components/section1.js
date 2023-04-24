@@ -73,7 +73,7 @@ function Slide({ data }) {
             </a>
           </Link>
         </div>
-        <p className='text-gray-500 py-3 text-2xl md:text-md w-4/5 leading-snug line-clamp-1'>
+        <p className='text-gray-500 py-3 text-2xl md:text-md leading-snug line-clamp-1'>
           {subtitle || 'unknown'}
         </p>
         <div className='border-1 border-solid text-[#888888] text-lg font-semibold hover:underline'>
