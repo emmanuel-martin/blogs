@@ -1061,7 +1061,7 @@ By following these tips and continually learning and improving your Git skills, 
       category: 'Personal, Health',
       img: '/images/articles/posts/img4.png',
       description: `
-      When you find yourself bored at home with nothing to do, there are plenty of creative and fun activities that you can try to make the most of your downtime. You can start by exploring new hobbies, such as painting, drawing, or writing. You can also try cooking or baking something new, watching a movie or reading a book, or even organizing your living space to create a more comfortable and enjoyable environment. Additionally, you can challenge yourself with puzzles or board games, or try out a new exercise routine to get your blood flowing. Whatever you choose to do, the key is to stay engaged and actively seek out new experiences to keep boredom at bay.
+      You can start by exploring new hobbies, such as painting, drawing, or writing. You can also try cooking or baking something new, watching a movie or reading a book, or even organizing your living space to create a more comfortable and enjoyable environment. Additionally, you can challenge yourself with puzzles or board games, or try out a new exercise routine to get your blood flowing. Whatever you choose to do, the key is to stay engaged and actively seek out new experiences to keep boredom at bay.
 
       <strong>1. Take an online course</strong>
 
