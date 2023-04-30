@@ -1057,7 +1057,7 @@ By following these tips and continually learning and improving your Git skills, 
     {
       id: 4,
       title: `Things to do when you're bored at home`,
-      subtitle: '',
+      subtitle: `When you're bored at home, there are many fun activities you can try. Learn a new skill, start a blog, or plant saplings. Connect with others through virtual events, or relax with meditation or yoga. There are endless possibilities to make the most of your downtime at home.`,
       category: 'Personal, Health',
       img: '/images/articles/posts/img4.png',
       description: `
