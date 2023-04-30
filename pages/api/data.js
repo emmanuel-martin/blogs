@@ -1057,9 +1057,7 @@ By following these tips and continually learning and improving your Git skills, 
     {
       id: 4,
       title: `Things to do when you're bored at home`,
-      subtitle:
-        `
-        `,
+      subtitle: '',
       category: 'Personal, Health',
       img: '/images/articles/posts/img4.png',
       description: `
@@ -1138,7 +1136,7 @@ By following these tips and continually learning and improving your Git skills, 
         img: '/images/author/author1.jpg',
         designation: 'Author',
       },
-    }
+    },
   ],
   Popular: [
     {
