@@ -21,7 +21,7 @@ export default function section1() {
   const bg = {};
 
   return (
-    <section className='py-8' style={bg}>
+    <section className='py-16' style={bg}>
       <div className='container mx-auto md:px-20 w-4/5 sm:max-w-1/2'>
         <Swiper
           slidesPerView={1}
